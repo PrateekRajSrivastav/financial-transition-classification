@@ -1,0 +1,8 @@
+Tech Stack
+Language: Python
+
+Libraries:
+Pandas, NumPy: Data manipulation and preprocessing.
+Scikit-Learn: Machine learning model training and evaluation.
+Matplotlib, Seaborn: Visualization for insights and metrics.
+Natural Language Toolkit (NLTK): Text processing for transaction descriptions.
