@@ -1,0 +1,16 @@
+Features:
+
+1.Data Preprocessing:
+Handling missing values.
+Cleaning and tokenizing transaction descriptions.
+Feature extraction using techniques like TF-IDF, Count Vectorization, or Embeddings.
+
+2.Machine Learning Models:
+Trained classifiers like Logistic Regression, Random Forest, or XGBoost.
+Fine-tuned to maximize accuracy and minimize false predictions.
+
+3.Evaluation Metrics:
+Precision, Recall, F1-Score, and Confusion Matrix for robust evaluation.
+
+4.Interactive Demo:
+Test the model with sample transaction data in the Colab notebook.
